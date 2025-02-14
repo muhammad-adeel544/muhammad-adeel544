@@ -73,4 +73,4 @@
 </p> 
 <h3 align="left" style="font-size: 2em; font-weight: bold; text-decoration: underline;">📊 GitHub Stats:</h3> 
 <hr style="border: 2px solid white; width: 100%; margin-bottom: 10px;" /> 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-adeel544&theme=dark&hide_border=false" alt="muhammad-adeel544" /></p>
+<p> <img align="left" src="[https://github-readme-streak-stats.herokuapp.com/?user=muhammad-adeel544&theme=dark&hide_border=false](https://github-readme-streak-stats.herokuapp.com/?user=muhammad-adeel544&theme=dark&hide_border=false)" alt="muhammad-adeel544" /></p>
