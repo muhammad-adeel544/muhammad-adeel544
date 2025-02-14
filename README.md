@@ -73,6 +73,9 @@
 </p> 
 <h3 align="left" style="font-size: 2em; font-weight: bold; text-decoration: underline;">📊 GitHub Stats:</h3> 
 <hr style="border: 2px solid white; width: 100%; margin-bottom: 10px;" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-adeel544&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+ <a > 
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-adeel544&theme=dark&hide_border=false" alt="git" /> 
+    </a> 
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-adeel544&theme=dark&hide_border=false" alt="GitHub Streak Stats" /> -->
 
 
