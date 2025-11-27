@@ -1,7 +1,7 @@
 ![MasterHead](https://i.imgur.com/wVFuGOV.png)
 
 <h1 align="center">Hi 👋, I'm Muhammad Adeel</h1>
-<h3 align="center">Full Satck Engineer | Bringing Ideas to Life with Code</h3>
+<h3 align="center">Full Stack Engineer | Bringing Ideas to Life with Code</h3>
 <img align="right" alt="Coding" width="400" margin-top: 20px; src="https://i.imgur.com/Jm1yLOL.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-adeel544&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-adeel544" /> </p>
 
@@ -11,7 +11,7 @@
 <p>As a web developer, I am committed to staying up-to-date with the latest web development trends and techniques. I enjoy collaborating with teams, learning from others, and taking on new challenges that push my skills to the next level. I am also proficient in debugging, testing, and troubleshooting code to ensure optimal performance.</p>
 
 - 🔭 I’m currently working on a **Next.js || React.js || WeWeb (Low Code Front End) || Xano (Low Code Backend) web application**  
-- 💬 Ask me about **Crafting Web Experiences with React.js, Next.js, and Low-Code Tools like Retool!**
+- 💬 Ask me about **Crafting Web Experiences with React.js, Next.js, and Low-Code Tools like Retool, WeWeb, and Xano!**
 - 🤝 I’m looking to collaborate on **Node.js** projects  
 - 🌱 I’m currently learning **Node.js** and exploring new technologies.
 - 📫 How to reach me **ajadeel547@gmail.com**
@@ -23,6 +23,7 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-adeel-425b74222" height="30" width="40" style="margin-right: 10px;" /> 
     </a> 
 </p> 
+
 <h3 align="left" style="font-size: 2em; font-weight: bold; text-decoration: underline;">💻 Languages:</h3> 
 <hr style="border: 2px solid white; width: 100%; margin-bottom: 10px;" /> 
 <p align="left"> 
@@ -36,6 +37,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 10px;"/> 
     </a> 
 </p> 
+
 <h3 align="left" style="font-size: 2em; font-weight: bold; text-decoration: underline;">⚙️ Frameworks:</h3> 
 <hr style="border: 2px solid white; width: 100%; margin-bottom: 10px;" /> 
 <p align="left"> 
@@ -58,6 +60,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="margin-right: 10px;"/> 
     </a> 
 </p> 
+
 <h3 align="left" style="font-size: 2em; font-weight: bold; text-decoration: underline;">🛠️ Development Tools:</h3> 
 <hr style="border: 2px solid white; width: 100%; margin-bottom: 10px;" /> 
 <p align="left"> 
@@ -71,11 +74,23 @@
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="margin-right: 10px;"/> 
     </a> 
 </p> 
+
+<h3 align="left" style="font-size: 2em; font-weight: bold; text-decoration: underline;">🧩 Low-Code Tools:</h3> 
+<hr style="border: 2px solid white; width: 100%; margin-bottom: 10px;" /> 
+<p align="left">
+    <a href="https://www.weweb.io/" target="_blank" rel="noreferrer">
+        <img src="https://downloads.intercomcdn.com/i/o/uisnxqib/684627/6624e1181068356683da1ff78ece/b97a5c7a1159ccd947fafb0906660bbb.png" alt="weweb" width="40" height="40" style="margin-right: 10px;"/>
+    </a>
+    <!-- <a href="https://www.xano.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.xano.com/home/0.0.459-iId2vsWG/assets/img/v3/xanoBlack.svg" alt="xano" width="40" height="40" style="margin-right: 10px;"/>
+    </a>
+    <a href="https://retool.com/" target="_blank" rel="noreferrer">
+        <img src="https://i.imgur.com/vJf4s1c.png" alt="retool" width="40" height="40" style="margin-right: 10px;"/>
+    </a> -->
+</p>
+
 <h3 align="left" style="font-size: 2em; font-weight: bold; text-decoration: underline;">📊 GitHub Stats:</h3> 
 <hr style="border: 2px solid white; width: 100%; margin-bottom: 10px;" /> 
- <a > 
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-adeel544&theme=dark&hide_border=false" alt="git" /> 
-    </a> 
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-adeel544&theme=dark&hide_border=false" alt="GitHub Streak Stats" /> -->
-
-
+<a> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-adeel544&theme=dark&hide_border=false" alt="git" /> 
+</a>
